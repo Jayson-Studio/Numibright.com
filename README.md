@@ -43,13 +43,4 @@ NumiBright is a React single-page web app built on the Memoir design system, wit
 > Drop images into `docs/screenshots/` using the filenames below and they'll render automatically.
 
 ### Homepage
-![NumiBright funnel hook](docs/screenshots/funnel-hook.png)
-
-### Monthly Exspenses
-![Onboarding flow](docs/screenshots/onboarding.png)
-
-### Monthly Budgets
-![Needs, Savings, Wants plan](docs/screenshots/plan.png)
-
-### Savings Goals
-![Goals](docs/screenshots/goals.png)
+![NumiBright Homepage](docs/Numibright 1.jpg)
