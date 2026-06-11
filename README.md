@@ -43,4 +43,4 @@ NumiBright is a React single-page web app built on the Memoir design system, wit
 > Drop images into `docs/screenshots/` using the filenames below and they'll render automatically.
 
 ### Homepage
-![NumiBright Homepage](docs/Numibright 1.jpg)
+![NumiBright Homepage](docs/numibright.jpg)
